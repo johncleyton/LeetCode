@@ -1,0 +1,15 @@
+C:\Users\Fred\Downloads\LeetCode\Parenthesis\Parenthesis\obj\Debug\net6.0\Parenthesis.csproj.AssemblyReference.cache
+C:\Users\Fred\Downloads\LeetCode\Parenthesis\Parenthesis\obj\Debug\net6.0\Parenthesis.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fred\Downloads\LeetCode\Parenthesis\Parenthesis\obj\Debug\net6.0\Parenthesis.AssemblyInfoInputs.cache
+C:\Users\Fred\Downloads\LeetCode\Parenthesis\Parenthesis\obj\Debug\net6.0\Parenthesis.AssemblyInfo.cs
+C:\Users\Fred\Downloads\LeetCode\Parenthesis\Parenthesis\obj\Debug\net6.0\Parenthesis.csproj.CoreCompileInputs.cache
+C:\Users\Fred\Downloads\LeetCode\Parenthesis\Parenthesis\bin\Debug\net6.0\Parenthesis.exe
+C:\Users\Fred\Downloads\LeetCode\Parenthesis\Parenthesis\bin\Debug\net6.0\Parenthesis.deps.json
+C:\Users\Fred\Downloads\LeetCode\Parenthesis\Parenthesis\bin\Debug\net6.0\Parenthesis.runtimeconfig.json
+C:\Users\Fred\Downloads\LeetCode\Parenthesis\Parenthesis\bin\Debug\net6.0\Parenthesis.dll
+C:\Users\Fred\Downloads\LeetCode\Parenthesis\Parenthesis\bin\Debug\net6.0\Parenthesis.pdb
+C:\Users\Fred\Downloads\LeetCode\Parenthesis\Parenthesis\obj\Debug\net6.0\Parenthesis.dll
+C:\Users\Fred\Downloads\LeetCode\Parenthesis\Parenthesis\obj\Debug\net6.0\refint\Parenthesis.dll
+C:\Users\Fred\Downloads\LeetCode\Parenthesis\Parenthesis\obj\Debug\net6.0\Parenthesis.pdb
+C:\Users\Fred\Downloads\LeetCode\Parenthesis\Parenthesis\obj\Debug\net6.0\Parenthesis.genruntimeconfig.cache
+C:\Users\Fred\Downloads\LeetCode\Parenthesis\Parenthesis\obj\Debug\net6.0\ref\Parenthesis.dll
